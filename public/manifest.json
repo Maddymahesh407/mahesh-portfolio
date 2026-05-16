@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "short_name": "Mahesh",
   "name": "Mahesh Kumar — Portfolio",
@@ -13,3 +14,20 @@
   "theme_color": "#0f172a",
   "background_color": "#0f172a"
 }
+=======
+{
+  "short_name": "Mahesh",
+  "name": "Mahesh Kumar — Portfolio",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}
+>>>>>>> e530600cdb5d7da99edfd6fca2cfbda5d92830bb
