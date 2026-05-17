@@ -669,15 +669,12 @@ body::before {
 /* ─── Reveal ────────────────────────────────────────────────── */
 [data-reveal] { opacity: 1; transform: none; }
 
-<<<<<<< HEAD
 /* ─── Cursor blink ──────────────────────────────────────────── */
 @keyframes cursor-blink {
   0%, 100% { opacity: 1; }
   50%       { opacity: 0; }
 }
 
-=======
->>>>>>> e530600cdb5d7da99edfd6fca2cfbda5d92830bb
 /* ─── Responsive ────────────────────────────────────────────── */
 @media (max-width: 640px) {
   .section-container { padding: 0 1.25rem; }
