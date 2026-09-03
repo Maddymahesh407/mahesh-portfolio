@@ -1,6 +1,7 @@
 {
-  "short_name": "Mahesh",
-  "name": "Mahesh Kumar — Portfolio",
+  "short_name": "Mahesh Kumar",
+  "name": "P. Mahesh Kumar — Software Engineer Portfolio",
+  "description": "Software Engineer — Backend, Full Stack, AI/ML and IoT.",
   "icons": [
     {
       "src": "/favicon.svg",
@@ -10,6 +11,6 @@
   ],
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0f172a",
-  "background_color": "#0f172a"
+  "theme_color": "#070b12",
+  "background_color": "#070b12"
 }

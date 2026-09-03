@@ -29,7 +29,7 @@ function Footer() {
               MK<span style={{ WebkitTextFillColor: 'var(--accent)' }}>.</span>
             </span>
             <span style={{ color: 'var(--muted-2)', fontSize: '0.82rem' }}>
-              © {year} P Mahesh Kumar
+              © {year} P. Mahesh Kumar
             </span>
           </div>
 
@@ -43,7 +43,7 @@ function Footer() {
               gap: '0.4rem',
             }}
           >
-            <span>Open to internships &amp; early-career roles</span>
+            <span>Software Engineer · Backend • Full Stack • AI/ML • IoT</span>
             <span
               style={{
                 width: 6,

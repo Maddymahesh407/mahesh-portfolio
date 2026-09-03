@@ -1,6 +1,4 @@
-import React from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
-import { useReducedMotion } from 'framer-motion'
+import { motion, AnimatePresence, useReducedMotion } from 'framer-motion'
 
 export default function PageTransition({ children }) {
   const reduce = useReducedMotion()
